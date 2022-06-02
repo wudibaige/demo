@@ -15,6 +15,7 @@ public class aa extends Exception{
     for(int i=0;i<=2;i++){
         System.out.println(i);
         System.out.println("nihao");
+        System.out.println("再见");
     }
      }
 }
