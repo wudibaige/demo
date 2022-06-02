@@ -14,6 +14,7 @@ public class aa extends Exception{
    arrayList.add(1,"ss");
     for(int i=0;i<=2;i++){
         System.out.println(i);
+        System.out.println("再见");
     }
      }
 }
