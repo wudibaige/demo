@@ -18,6 +18,7 @@ public class aa extends Exception{
         System.out.println("再见");
         System.out.println("你真漂亮");
         System.out.println("好想看到你");
+        System.out.primtln("那就祝我年少有为");
     }
      }
 }
